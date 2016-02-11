@@ -1,0 +1,14 @@
+layout_spectrum: 0.4677419
+color:
+  saturation: 0.7544803
+  lightness: 0.6021506
+  brandStrength: 0.5483871
+  brandColors:
+    - '#A3A19C'
+    - '#273042'
+    - '#CFD8DF'
+    - '#77675C'
+    - '#FAC69A'
+  rhythmicContrast: 0.7795699
+typography_spectrum: 0.1379928
+name: Junk

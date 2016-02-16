@@ -1,14 +1,28 @@
-layout_spectrum: 0.4677419
-color:
-  saturation: 0.7544803
-  lightness: 0.6021506
-  brandStrength: 0.5483871
-  brandColors:
-    - '#A3A19C'
-    - '#273042'
-    - '#CFD8DF'
-    - '#77675C'
-    - '#FAC69A'
-  rhythmicContrast: 0.7795699
-typography_spectrum: 0.1379928
 name: Junk
+favicon: null
+layout_spectrum: 0.35211
+typography_spectrum: 0.1056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1c1c1c'
+    - '#e7e7e5'
+    - '#c1b9ae'
+    - '#8b5635'
+    - '#284850'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.5
+purpose: []

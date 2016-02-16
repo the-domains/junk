@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Junk]]></title>
         <description><![CDATA[Junk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/junk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 21:40:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 00:31:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/junk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ala bala portocala</p>]]></description>
+            <link>https://thegrid.ai/junk/625830a8-851f-4480-a8cf-28c35e496b75/index.html</link>
+            <guid isPermaLink="false">625830a8-851f-4480-a8cf-28c35e496b75</guid>
+            <pubDate>Tue, 16 Feb 2016 00:31:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jkkk]]></title>
-            <description><![CDATA[<article><h1>Jkkk</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/872ab964-0fd4-49ea-9aa0-ee28f77c1ea8.png"></article>]]></description>
-            <link>undefinedjkkk/index.html</link>
+            <description><![CDATA[<article><h1>Jkkk</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77a222c1755f09178ecdc66624a10b039c8b8565.png"></article>]]></description>
+            <link>https://thegrid.ai/junk/jkkk/index.html</link>
             <guid isPermaLink="false">47f8c055-3386-4eff-bd0e-e2736332c23a</guid>
             <pubDate>Thu, 11 Feb 2016 21:39:26 GMT</pubDate>
         </item>
